@@ -19,6 +19,6 @@ a) Git clone or Download zip
 
 b) Open Iowa_liquor.html in browser, if you want only watch.
 
-   Open Iowa_liquor.ipynb in Jupiter Notebook and run script? if you want do something.
+   Open Iowa_liquor.ipynb in Jupiter Notebook and run script, if you want do something.
 
 
