@@ -13,9 +13,12 @@ Content:
 5. Multivariate Analysis
 
 
-To open a project, follow these steps::
+To open a project, follow these steps:
+
 a) Git clone or Download zip
-b) Open Iowa_liquor.html in browser, if you want only watch. 
+
+b) Open Iowa_liquor.html in browser, if you want only watch.
+
    Open Iowa_liquor.ipynb in Jupiter Notebook and run script? if you want do something.
 
 
