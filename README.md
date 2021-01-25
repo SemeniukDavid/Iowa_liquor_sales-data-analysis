@@ -13,7 +13,7 @@ Content:
 5. Multivariate Analysis
 
 
-To open a project, follow these steps:
+To watch a project, follow these steps:
 
 a) Git clone or Download zip
 
